@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.kaggle/
+*.sqlite
+*.db
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+screenshots/*.png
+reports/*.html
+reports/*.png
