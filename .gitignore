@@ -7,6 +7,6 @@ __pycache__/
 data/raw/*.csv
 data/raw/*.zip
 data/processed/*.csv
-screenshots/*.png
 reports/*.html
 reports/*.png
+reports/.mplconfig/
